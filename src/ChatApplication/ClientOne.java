@@ -6,7 +6,7 @@ import java.net.Socket;
 
 import java.util.Scanner;
 
-public class ClientMain {
+public class ClientOne {
    public static void main(String[] args) throws IOException {
 
        Socket socket = new Socket();
